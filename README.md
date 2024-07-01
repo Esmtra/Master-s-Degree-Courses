@@ -9,7 +9,7 @@ Welcome to the repository for my Master's Degree courses. This repository is org
 - [PHM 663 Advanced Engineering Mathematics](#course-3-course-name)
 - [MCT 610 Design of Mechatronic Systems](#course-4-course-name)
 
-## Course 1: Course Name
+## Course 1: CSE 608 Advanced Software Engineering
 
 ### Overview
 This course Presents Some Advanced Topics of Software Engineering Using Group Projects as The Basic 
@@ -19,7 +19,7 @@ Environments.
 ### Syllabus
 - lec: [Topic 1]
 
-## Course 2: Course Name
+## Course 2: MCT 617 Advanced Embedded Systems and RTOS
 
 ### Overview
 This course focuses Programming Examples, Discipline, Methods, and Process of Assembler Program Development, Machine 
@@ -30,7 +30,7 @@ Algorithm Analysis.
 ### Syllabus
 - lec: [Topic 1]
 
-## Course 3: Course Name
+## Course 3: PHM 663 Advanced Engineering Mathematics
 
 ### Overview
 This course explores Laplace Transform, Series Solution of Differential Equations, Special Functions Including Bessel and 
@@ -40,7 +40,7 @@ Legendre Functions, Functions of a Complex Variable, Evaluation of Real Integral
 - lec: [Topic 1]
 
 
-## Course 4: Course Name
+## Course 4: MCT 610 Design of Mechatronic Systems
 
 ### Overview
 This course examines Mechatronics Systems Components, Intelligent Mechatronics Product’s Elements, Selecting, Designing 
