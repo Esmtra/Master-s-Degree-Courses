@@ -1,6 +1,6 @@
 # Master's Degree Courses
 
-Welcome to the repository for my Master's Degree courses. This repository is organized by course, and each course has its own folder containing materials and other resources.
+Welcome to the repository for my Master's Degree courses @ Faculty of Engineering Ain Shams University. This repository is organized by course, and each course has its own folder containing materials and other resources.
 
 ## Table of Contents
 
