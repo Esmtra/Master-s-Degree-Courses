@@ -16,16 +16,8 @@ This course Presents Some Advanced Topics of Software Engineering Using Group Pr
 Vehicle, Topics Covered Lnclude Systems Planning, Managing Complexity, Requirements Specification, 
 Architectural and Datailed Design, for Reusability, Reliability and Testability, The Tools and 
 Environments.
-### Resources
-- **Lecture Notes**: [Link to notes](path/to/notes)
-- **Assignments**: [Link to assignments](path/to/assignments)
-- **Projects**: [Link to projects](path/to/projects)
-
 ### Syllabus
-- Week 1: [Topic 1]
-- Week 2: [Topic 2]
-- Week 3: [Topic 3]
-- ...
+- lec: [Topic 1]
 
 ## Course 2: Course Name
 
@@ -35,16 +27,8 @@ Instruction Format and Instruction Timing, Interface Between OS, ISA and RTL Lay
 Machine Model, Interrupts, Privilege States and Exception Handling, Programming Examples with 
 Algorithm Analysis.
 
-### Resources
-- **Lecture Notes**: [Link to notes](path/to/notes)
-- **Assignments**: [Link to assignments](path/to/assignments)
-- **Projects**: [Link to projects](path/to/projects)
-
 ### Syllabus
-- Week 1: [Topic 1]
-- Week 2: [Topic 2]
-- Week 3: [Topic 3]
-- ...
+- lec: [Topic 1]
 
 ## Course 3: Course Name
 
@@ -52,16 +36,9 @@ Algorithm Analysis.
 This course explores Laplace Transform, Series Solution of Differential Equations, Special Functions Including Bessel and 
 Legendre Functions, Functions of a Complex Variable, Evaluation of Real Integrals By Residues.
 
-### Resources
-- **Lecture Notes**: [Link to notes](path/to/notes)
-- **Assignments**: [Link to assignments](path/to/assignments)
-- **Projects**: [Link to projects](path/to/projects)
-
 ### Syllabus
-- Week 1: [Topic 1]
-- Week 2: [Topic 2]
-- Week 3: [Topic 3]
-- ...
+- lec: [Topic 1]
+
 
 ## Course 4: Course Name
 
@@ -72,16 +49,8 @@ Different Design Techniques, Decision Making in Design, Select a Suitable Techno
 Produce a Mechatronics Product, Technical Skills to Build Mechatronics Systems, Practical Application 
 to Test, Design and Implement a Mechatronics Product. 
 
-### Resources
-- **Lecture Notes**: [Link to notes](path/to/notes)
-- **Assignments**: [Link to assignments](path/to/assignments)
-- **Projects**: [Link to projects](path/to/projects)
-
 ### Syllabus
-- Week 1: [Topic 1]
-- Week 2: [Topic 2]
-- Week 3: [Topic 3]
-- ...
+- lec: [Topic 1]
 
 ## How to Use This Repository
 
@@ -91,5 +60,5 @@ to Test, Design and Implement a Mechatronics Product.
 
 ## Contact
 
-If you have any questions or need further information, feel free to contact me at [your email].
+If you have any questions or need further information, feel free to contact me at [eselmtrawy@gmail.com].
 
